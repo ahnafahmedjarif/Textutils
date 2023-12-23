@@ -13,15 +13,6 @@ Textutils project is a website where we ca do anything with our any kind of text
 I am a junior python developer. I am currently learning python framework - Django.  
 
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-
 ## Feedback
 
 If you have any feedback, please reach out to me at ahnafahmedjarif@gmail.com
