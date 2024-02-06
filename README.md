@@ -1,7 +1,7 @@
 
 # Textutils
 
-Textutils project is a website where we ca do anything with our any kind of text. 
+Textutils project is a website where we can do anything with texts. 
 
 
 ## Authors
